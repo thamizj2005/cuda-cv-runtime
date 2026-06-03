@@ -574,12 +574,18 @@ __pycache__/
 ## 👤 Author
 
 **Thamizh Selvan G**
-Final Year B.Tech — Artificial Intelligence & Data Science
-Ramco Institute of Technology, Rajapalayam
 
-- LinkedIn: [linkedin.com/in/thamizh-ai](https://linkedin.com/in/thamizh-ai)
+AI & Computer Vision Engineer
 
----
+Interests:
+- Computer Vision
+- Industrial AI
+- Edge AI Deployment
+- Machine Learning Systems
+
+🔗 LinkedIn: https://linkedin.com/in/thamizh-ai
+🔗 Hugging Face: https://huggingface.co/thamizhg
+
 
 ## 📄 License
 
